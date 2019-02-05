@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+
+Hello there!
+
+I have just joined in gthub.
+Its fun to be here.
